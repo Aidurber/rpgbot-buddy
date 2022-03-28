@@ -1,4 +1,5 @@
 {
+  "name": "RPGBOT Buddy",
   "permissions": ["storage"],
   "manifest_version": 3,
   "content_scripts": [
