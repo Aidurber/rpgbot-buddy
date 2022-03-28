@@ -1,0 +1,11 @@
+{
+  "permissions": ["storage"],
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "js": ["content/subclass/subclass.tsx"],
+      "matches": ["https://rpgbot.net/dnd5/characters/classes/*/subclasses/*"],
+      "run_at": "document_end"
+    }
+  ]
+}
