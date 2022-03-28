@@ -2,7 +2,7 @@
   "name": "rpgbot-buddy",
   "version": "1.0.0",
   "private": true,
-  "description": "A chrome extension providing utilities for RPGBot",
+  "description": "A browser extension providing utilities for RPGBOT",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
